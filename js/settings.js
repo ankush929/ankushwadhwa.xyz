@@ -1,10 +1,6 @@
 $(document).ready(function () {
   "use strict";
   try {
-    var $buythemediv =
-      '<div class="buy-theme xs-display-none"><a href="https://1.envato.market/61ORG" target="_blank"><span>Purchase Theme</span></a></div>';
-    $("body").append($buythemediv);
-
     /* ==========================================================================
          #PieChart For Skills Page
          ========================================================================== */
