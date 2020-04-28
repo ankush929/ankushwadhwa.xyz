@@ -95,11 +95,6 @@ figure,
   -webkit-transition-duration: 0s;
   -o-transition-duration: 0s;
 }
-
-.first {
-  text-indent: 2em;
-}
-
 img {
   -webkit-backface-visibility: hidden;
   max-width: 100%;
@@ -226,6 +221,10 @@ h5 {
   margin: 50px 0 0 0;
   clear: both;
 }
+
+.first{
+  text-indent: 2em;
+}
 .gray-bg {
   background-color: #f7f7f7;
 }
@@ -277,6 +276,7 @@ h5 {
 .col-12 {
   float: left;
   position: relative;
+   
 }
 .col-12 {
   width: 100%;
@@ -306,7 +306,7 @@ h5 {
   width: 33.33333333%;
 }
 .col-3 {
-  width: 25%;
+  width: 29%;
 }
 .col-2 {
   width: 16.66666667%;
@@ -692,6 +692,7 @@ a.totop-link {
 }
 .skills-con h4 {
   width: 65%;
+   
 }
 .skill-list ul li:before {
   content: "\f00c";
@@ -799,6 +800,7 @@ a.totop-link {
    #Experience Screen
    ========================================================================== */
 
+  
 .experience-con .icon-block i {
   font-size: 60px;
   color: #ffb400;
