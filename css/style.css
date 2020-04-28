@@ -95,6 +95,11 @@ figure,
   -webkit-transition-duration: 0s;
   -o-transition-duration: 0s;
 }
+
+.first {
+  text-indent: 2em;
+}
+
 img {
   -webkit-backface-visibility: hidden;
   max-width: 100%;
