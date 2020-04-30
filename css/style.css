@@ -645,7 +645,7 @@ a.totop-link {
    ========================================================================== */
 
 .about {
-  background: url(../images/about.jpg) no-repeat 100% 0 scroll;
+  background: no-repeat 100% 0 scroll;
   background-size: contain;
 }
 .about .inner {
